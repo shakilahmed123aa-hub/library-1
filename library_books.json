@@ -1,0 +1,844 @@
+[
+  {
+    "id": 1,
+    "title": "Computer Fundamentals",
+    "image": "https://m.media-amazon.com/images/I/819LiQAib+L._AC_UF1000,1000_QL80_.jpg",
+    "department": "Computer",
+    "description": "Computer বিভাগের বেসিক কনসেপ্ট"
+  },
+  {
+    "id": 2,
+    "title": "Computer Programming",
+    "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1576290759i/49227811.jpg",
+    "department": "Computer",
+    "description": "C প্রোগ্রামিং পরিচিতি"
+  },
+  {
+    "id": 3,
+    "title": "Computer Web Basics",
+    "image": "https://simg.pothi.com/1EUsyTz_-_y76NcPlFDhirwbjtKxtQI0Qq2cBDV8IX8/rs:fit/w:371/h:477/el:1/g:sm/cb:rev-1/bG9jYWw6Ly8vaW1h/Z2VzL3Byb2R1Y3Rz/LzIwMjQvMTEvZWJv/b2sxNjA1Ni9JbWFn/ZV8wLmpwZw.jpg",
+    "department": "Computer",
+    "description": "HTML ও CSS বেসিক"
+  },
+  {
+    "id": 4,
+    "title": "Computer JavaScript",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx0LfxJXWAbIaWtKNJL_paKwFnBxkVlP0ASw&s",
+    "department": "Computer",
+    "description": "JavaScript বেসিক"
+  },
+  {
+    "id": 5,
+    "title": "Computer React",
+    "image": "https://eboighar-static.s3.ap-southeast-1.amazonaws.com/static/Books/book_29172023-02-27_1677490038.jpg",
+    "department": "Computer",
+    "description": "React fundamentals"
+  },
+  {
+    "id": 6,
+    "title": "Computer Database",
+    "image": "https://www.vikaspublishing.com/uploads/bookimages/vikas-books/9789325984370.jpg",
+    "department": "Computer",
+    "description": "Database ও SQL"
+  },
+  {
+    "id": 7,
+    "title": "Computer Data Structure",
+    "image": "https://bpbonline.com/cdn/shop/products/9789388176583.jpg?v=1755670141",
+    "department": "Computer",
+    "description": "Array, Stack, Queue"
+  },
+  {
+    "id": 8,
+    "title": "Computer Algorithm",
+    "image": "https://booktionary.com.bd/storage/app/book//image12436.jpg",
+    "department": "Computer",
+    "description": "Algorithm basics"
+  },
+  {
+    "id": 9,
+    "title": "Computer Networking",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRht4VKBx545hjJTuzmtWmK8_XKLvT34-pKJg&s",
+    "department": "Computer",
+    "description": "Computer network"
+  },
+  {
+    "id": 10,
+    "title": "Computer Software Testing",
+    "image": "https://m.media-amazon.com/images/I/61mLCZXxgUL._AC_UF1000,1000_QL80_.jpg",
+    "department": "Computer",
+    "description": "Testing basics"
+  },
+  {
+    "id": 11,
+    "title": "Computer OOP Concepts",
+    "image": "https://media.springernature.com/full/springer-static/cover-hires/book/978-3-030-13304-7",
+    "department": "Computer",
+    "description": "Object Oriented Programming"
+  },
+  {
+    "id": 12,
+    "title": "Computer Python Basics",
+    "image": "https://m.media-amazon.com/images/I/61rrJG8p6NL._AC_UF1000,1000_QL80_.jpg",
+    "department": "Computer",
+    "description": "Python introductory course"
+  },
+  {
+    "id": 13,
+    "title": "Computer Java Basics",
+    "image": "https://images-cdn.bukuext.com/thumbnail?width=400&type=auto&url=https://cdn.bukuext.com/covers/uxd2zubuguofx3ut0wbsbg7g0dx6uqnwutagg9a5.jpg",
+    "department": "Computer",
+    "description": "Java programming basics"
+  },
+  {
+    "id": 14,
+    "title": "Computer C++ Basics",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wiley.com%2Fen-us%2FIntroduction%2Bto%2BProgramming%2Bwith%2BC%252B%252B%2Bfor%2BEngineers-p-9781119431138&psig=AOvVaw3YKpXx3ie3dy6rJDSnHsH4&ust=1766993338652000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKCMlaTh35EDFQAAAAAdAAAAABAE",
+    "department": "Computer",
+    "description": "C++ programming basics"
+  },
+  {
+    "id": 15,
+    "title": "Computer Mobile App Development",
+    "image": "https://heritagebooks.com.np/wp-content/uploads/2025/11/Web-And-Mobile-Application-Development-Grade-11.jpeg",
+    "department": "Computer",
+    "description": "Android/iOS app development"
+  },
+  {
+    "id": 16,
+    "title": "Computer Cloud Computing",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIP6ytg7EBMAsFZuYICnmBf8SmDBvyizS00g&s",
+    "department": "Computer",
+    "description": "Introduction to cloud"
+  },
+  {
+    "id": 17,
+    "title": "Computer AI Basics",
+    "image": "https://learning.oreilly.com/library/cover/9781484250280/250w/",
+    "department": "Computer",
+    "description": "Artificial Intelligence introduction"
+  },
+  {
+    "id": 18,
+    "title": "Computer ML Basics",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMVHHMvPpiQeqdXp1ZaMAQjlkp-KHMBo7ymg&s",
+    "department": "Computer",
+    "description": "Machine Learning introduction"
+  },
+  {
+    "id": 19,
+    "title": "Computer Cyber Security",
+    "image": "https://coverimages.igi-global.com/cover-images/covers3d/9781522556343.png",
+    "department": "Computer",
+    "description": "Cyber security fundamentals"
+  },
+  {
+    "id": 20,
+    "title": "Computer Data Science",
+    "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1609112979i/56440137.jpg",
+    "department": "Computer",
+    "description": "Data science introduction"
+  },
+  {
+    "id": 21,
+    "title": "Civil Engineering Basics",
+    "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1496495028i/35292208.jpg",
+    "department": "Civil",
+    "description": "Civil engineering intro"
+  },
+  {
+    "id": 22,
+    "title": "Building Construction",
+    "image": "https://rokbucket.rokomari.io/ProductNew20190903/260X372/A_Textbook_of_Building_Construction-S_K_Sharma-ded9d-333843.jpg",
+    "department": "Civil",
+    "description": "Building construction methods"
+  },
+  {
+    "id": 23,
+    "title": "Surveying",
+    "image": "https://lh3.googleusercontent.com/proxy/JWvSPvT6pA5XJuBJl_lP47huD2jOwx6iECFmFnrK5rg0FKC2Wm2KP6IuxF8FQ2BUdRUzIHNVgbHGvkew4kUY0HDUqEH-oV42OvTi2tyaWMLf9PY4381YCn9kqLq7btCF",
+    "department": "Civil",
+    "description": "Survey tools & methods"
+  },
+  {
+    "id": 24,
+    "title": "Concrete Technology",
+    "image": "https://m.media-amazon.com/images/I/71o0vJBqYlL._AC_UF1000,1000_QL80_.jpg",
+    "department": "Civil",
+    "description": "Concrete mix design"
+  },
+  {
+    "id": 25,
+    "title": "Soil Mechanics",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.perlego.com%2Fbook%2F1521930%2Fcraigs-soil-mechanics-pdf&psig=AOvVaw1JxeMqd0mGFzBnFwVhH_KL&ust=1766993783964000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCND33vji35EDFQAAAAAdAAAAABAE",
+    "department": "Civil",
+    "description": "Soil properties"
+  },
+  {
+    "id": 26,
+    "title": "Structural Mechanics",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rokomari.com%2Fbook%2F264127%2Fstructural-mechanics-66441-4th-semester&psig=AOvVaw09zXb4sSX79zd7LgNGyRnP&ust=1766998399993000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKio95H035EDFQAAAAAdAAAAABAE",
+    "department": "Civil",
+    "description": "Structure analysis"
+  },
+  {
+    "id": 27,
+    "title": "Construction Planning",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSawhNXR4ooU2LKQ-r0a3lJ0sUT8AHWlLxIDA&s",
+    "department": "Civil",
+    "description": "Project planning"
+  },
+  {
+    "id": 28,
+    "title": "Hydraulics",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goodreads.com%2Fbook%2Fshow%2F14317951-civil-engineering-hydraulics&psig=AOvVaw3X69yM4AFzX1S-MrEVp3c6&ust=1766998462607000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJCmx7D035EDFQAAAAAdAAAAABAE",
+    "department": "Civil",
+    "description": "Fluid mechanics"
+  },
+  {
+    "id": 29,
+    "title": "Transportation Engineering",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsszUmPRveWpqf-SaycgvxxwTyqTCVyew6qQ&s",
+    "department": "Civil",
+    "description": "Road & traffic"
+  },
+  {
+    "id": 30,
+    "title": "Environmental Engineering",
+    "image": "https://covers.openlibrary.org/b/id/9465050-L.jpg",
+    "department": "Civil",
+    "description": "Environment basics"
+  },
+  {
+    "id": 31,
+    "title": "Civil CAD",
+    "image": "https://rokbucket.rokomari.io/ProductNew20190903/260X372/Civil_CAD_1_26443_Probidhan_2022-Engineer_Md_Mohiuddin-7bb72-334989.jpg",
+    "department": "Civil",
+    "description": "AutoCAD for Civil"
+  },
+  {
+    "id": 32,
+    "title": "Structural Design",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBqdl5_W3FA6MMkYIoSG90UGakiv-l3LnIjg&s",
+    "department": "Civil",
+    "description": "Design of structures"
+  },
+  {
+    "id": 33,
+    "title": "Water Resources",
+    "image": "https://5.imimg.com/data5/FU/BS/GLADMIN-3917451/hydrology-and-water-resources-engineering.png",
+    "department": "Civil",
+    "description": "Water resource engineering"
+  },
+  {
+    "id": 34,
+    "title": "Bridge Engineering",
+    "image": "https://img.perlego.com/book-covers/1603553/9781439852347.jpg",
+    "department": "Civil",
+    "description": "Bridge design basics"
+  },
+  {
+    "id": 35,
+    "title": "Construction Management",
+    "image": "https://heritagebooks.com.np/wp-content/uploads/2022/08/A-Textbook-of-Construction-Management.jpg",
+    "department": "Civil",
+    "description": "Construction project management"
+  },
+  {
+    "id": 36,
+    "title": "Geotechnical Engineering",
+    "image": "https://rokbucket.rokomari.io/ProductNew20190903/260X372/rokimg_20150126_93009.gif",
+    "department": "Civil",
+    "description": "Soil & foundation"
+  },
+  {
+    "id": 37,
+    "title": "Civil Materials",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgYIZjU44o9HLWvwZmpn_BqwCM_nspPF62UA&s",
+    "department": "Civil",
+    "description": "Construction materials"
+  },
+  {
+    "id": 38,
+    "title": "Structural Analysis",
+    "image": "https://www.schandpublishing.com/Handler/ImageHandler.ashx?width=314&height=404&imgpath=~/Upload/BookImage/10000245.jpg",
+    "department": "Civil",
+    "description": "Analysis of frames"
+  },
+  {
+    "id": 39,
+    "title": "Urban Planning",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXkq837VThCghy2WTj_UlYalK9JABuyxIb9w&s",
+    "department": "Civil",
+    "description": "Urban development basics"
+  },
+  {
+    "id": 40,
+    "title": "Project Estimation",
+    "image": "https://media.springernature.com/full/springer-static/cover-hires/book/978-3-319-03629-8",
+    "department": "Civil",
+    "description": "Cost estimation"
+  },
+  {
+    "id": 41,
+    "title": "Electrical Fundamentals",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKwO4yZf2Tlz3k6WNFn7orMmcIiBCmiwC9zQ&s",
+    "department": "Electrical",
+    "description": "Electrical basics"
+  },
+  {
+    "id": 42,
+    "title": "Electrical Circuit",
+    "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1347868381i/2565231.jpg",
+    "department": "Electrical",
+    "description": "Circuit analysis"
+  },
+  {
+    "id": 43,
+    "title": "Electrical Machines",
+    "image": "https://www.schandpublishing.com/Handler/ImageHandler.ashx?width=314&height=404&imgpath=~/Upload/BookImage/10A00243.jpg",
+    "department": "Electrical",
+    "description": "Motor & generator"
+  },
+  {
+    "id": 44,
+    "title": "Power Generation",
+    "image": "https://ars.els-cdn.com/content/image/3-s2.0-C20170032676-cov200h.gif",
+    "department": "Electrical",
+    "description": "Power plant basics"
+  },
+  {
+    "id": 45,
+    "title": "Power Transmission",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4dg2ioYv8mfFWQX51s-J8_YOvIp1QRPkXUw&s",
+    "department": "Electrical",
+    "description": "Transmission system"
+  },
+  {
+    "id": 46,
+    "title": "Power Distribution",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0bu4azKpOYCmPA0nggx0nU8g-RlzrhCaV5Q&s",
+    "department": "Electrical",
+    "description": "Distribution system"
+  },
+  {
+    "id": 47,
+    "title": "Electrical Wiring",
+    "image": "https://images-cdn.bukuext.com/thumbnail?width=400&type=auto&url=https://cdn.bukuext.com/covers/k9UAebSQyUftrtapykMfmK3yrzgm3QMGmKKGvwKO.png",
+    "department": "Electrical",
+    "description": "House wiring"
+  },
+  {
+    "id": 48,
+    "title": "Substation",
+    "image": "https://m.media-amazon.com/images/I/71jEB0n7DlL._AC_UF894,1000_QL80_.jpg",
+    "department": "Electrical",
+    "description": "Substation basics"
+  },
+  {
+    "id": 49,
+    "title": "Industrial Electricity",
+    "image": "https://images-cdn.bukuext.com/thumbnail?width=400&type=auto&url=https://cdn.bukuext.com/covers/91Di8MWxkbaBywaheEvrsoEYPHXM9h7rvcHwi8EO.png",
+    "department": "Electrical",
+    "description": "Industrial power"
+  },
+  {
+    "id": 50,
+    "title": "Renewable Energy",
+    "image": "https://assets.cambridge.org/97810092/95789/cover/9781009295789.jpg",
+    "department": "Electrical",
+    "description": "Solar & wind"
+  },
+  {
+    "id": 51,
+    "title": "Electronics Basics",
+    "image": "https://via.placeholder.com/150",
+    "department": "Electronics",
+    "description": "Electronics intro"
+  },
+  {
+    "id": 52,
+    "title": "Analog Electronics",
+    "image": "https://via.placeholder.com/150",
+    "department": "Electronics",
+    "description": "Analog circuits"
+  },
+  {
+    "id": 53,
+    "title": "Digital Electronics",
+    "image": "https://via.placeholder.com/150",
+    "department": "Electronics",
+    "description": "Logic gates"
+  },
+  {
+    "id": 54,
+    "title": "Electronic Devices",
+    "image": "https://via.placeholder.com/150",
+    "department": "Electronics",
+    "description": "Diode & transistor"
+  },
+  {
+    "id": 55,
+    "title": "Microcontroller",
+    "image": "https://via.placeholder.com/150",
+    "department": "Electronics",
+    "description": "Microcontroller basics"
+  },
+  {
+    "id": 56,
+    "title": "Microprocessor",
+    "image": "https://via.placeholder.com/150",
+    "department": "Electronics",
+    "description": "Microprocessor intro"
+  },
+  {
+    "id": 57,
+    "title": "Embedded Systems",
+    "image": "https://via.placeholder.com/150",
+    "department": "Electronics",
+    "description": "Embedded systems"
+  },
+  {
+    "id": 58,
+    "title": "PCB Design",
+    "image": "https://via.placeholder.com/150",
+    "department": "Electronics",
+    "description": "PCB basics"
+  },
+  {
+    "id": 59,
+    "title": "Communication Systems",
+    "image": "https://via.placeholder.com/150",
+    "department": "Electronics",
+    "description": "Signal communication"
+  },
+  {
+    "id": 60,
+    "title": "Robotics",
+    "image": "https://via.placeholder.com/150",
+    "department": "Electronics",
+    "description": "Robotics intro"
+  },
+  {
+    "id": 61,
+    "title": "RAC Fundamentals",
+    "image": "https://via.placeholder.com/150",
+    "department": "RAC",
+    "description": "RAC basics"
+  },
+  {
+    "id": 62,
+    "title": "Refrigeration System",
+    "image": "https://via.placeholder.com/150",
+    "department": "RAC",
+    "description": "Refrigeration cycle"
+  },
+  {
+    "id": 63,
+    "title": "Air Conditioning",
+    "image": "https://via.placeholder.com/150",
+    "department": "RAC",
+    "description": "AC system"
+  },
+  {
+    "id": 64,
+    "title": "HVAC",
+    "image": "https://via.placeholder.com/150",
+    "department": "RAC",
+    "description": "HVAC intro"
+  },
+  {
+    "id": 65,
+    "title": "AC Installation",
+    "image": "https://via.placeholder.com/150",
+    "department": "RAC",
+    "description": "AC installation"
+  },
+  {
+    "id": 66,
+    "title": "AC Maintenance",
+    "image": "https://via.placeholder.com/150",
+    "department": "RAC",
+    "description": "AC maintenance"
+  },
+  {
+    "id": 67,
+    "title": "Refrigerator Service",
+    "image": "https://via.placeholder.com/150",
+    "department": "RAC",
+    "description": "Fridge servicing"
+  },
+  {
+    "id": 68,
+    "title": "Cooling Load Calculation",
+    "image": "https://via.placeholder.com/150",
+    "department": "RAC",
+    "description": "Cooling load"
+  },
+  {
+    "id": 69,
+    "title": "Compressor",
+    "image": "https://via.placeholder.com/150",
+    "department": "RAC",
+    "description": "Compressor types"
+  },
+  {
+    "id": 70,
+    "title": "RAC Safety",
+    "image": "https://via.placeholder.com/150",
+    "department": "RAC",
+    "description": "Safety rules"
+  },
+  {
+    "id": 71,
+    "title": "RAC Refrigerant",
+    "image": "https://via.placeholder.com/150",
+    "department": "RAC",
+    "description": "Refrigerant types"
+  },
+  {
+    "id": 72,
+    "title": "RAC Piping",
+    "image": "https://via.placeholder.com/150",
+    "department": "RAC",
+    "description": "Piping systems"
+  },
+  {
+    "id": 73,
+    "title": "RAC Thermodynamics",
+    "image": "https://via.placeholder.com/150",
+    "department": "RAC",
+    "description": "Thermodynamic principles"
+  },
+  {
+    "id": 74,
+    "title": "RAC Heat Transfer",
+    "image": "https://via.placeholder.com/150",
+    "department": "RAC",
+    "description": "Heat transfer basics"
+  },
+  {
+    "id": 75,
+    "title": "RAC Electrical Control",
+    "image": "https://via.placeholder.com/150",
+    "department": "RAC",
+    "description": "Electrical control in RAC"
+  },
+  {
+    "id": 76,
+    "title": "RAC Troubleshooting",
+    "image": "https://via.placeholder.com/150",
+    "department": "RAC",
+    "description": "Troubleshooting AC"
+  },
+  {
+    "id": 77,
+    "title": "RAC Maintenance Tools",
+    "image": "https://via.placeholder.com/150",
+    "department": "RAC",
+    "description": "Tools & equipment"
+  },
+  {
+    "id": 78,
+    "title": "RAC Energy Efficiency",
+    "image": "https://via.placeholder.com/150",
+    "department": "RAC",
+    "description": "Energy saving"
+  },
+  {
+    "id": 79,
+    "title": "RAC Indoor Units",
+    "image": "https://via.placeholder.com/150",
+    "department": "RAC",
+    "description": "Indoor unit types"
+  },
+  {
+    "id": 80,
+    "title": "RAC Outdoor Units",
+    "image": "https://via.placeholder.com/150",
+    "department": "RAC",
+    "description": "Outdoor unit types"
+  },
+  {
+    "id": 81,
+    "title": "Computer Advanced JS",
+    "image": "https://via.placeholder.com/150",
+    "department": "Computer",
+    "description": "Advanced JavaScript"
+  },
+  {
+    "id": 82,
+    "title": "Computer Node.js",
+    "image": "https://via.placeholder.com/150",
+    "department": "Computer",
+    "description": "Node.js server"
+  },
+  {
+    "id": 83,
+    "title": "Computer Express.js",
+    "image": "https://via.placeholder.com/150",
+    "department": "Computer",
+    "description": "Express.js basics"
+  },
+  {
+    "id": 84,
+    "title": "Computer MongoDB",
+    "image": "https://via.placeholder.com/150",
+    "department": "Computer",
+    "description": "MongoDB database"
+  },
+  {
+    "id": 85,
+    "title": "Computer REST API",
+    "image": "https://via.placeholder.com/150",
+    "department": "Computer",
+    "description": "REST API development"
+  },
+  {
+    "id": 86,
+    "title": "Civil Advanced CAD",
+    "image": "https://via.placeholder.com/150",
+    "department": "Civil",
+    "description": "Advanced AutoCAD"
+  },
+  {
+    "id": 87,
+    "title": "Civil Quantity Surveying",
+    "image": "https://via.placeholder.com/150",
+    "department": "Civil",
+    "description": "Material quantity estimation"
+  },
+  {
+    "id": 88,
+    "title": "Electrical PLC",
+    "image": "https://via.placeholder.com/150",
+    "department": "Electrical",
+    "description": "Programmable Logic Controller"
+  },
+  {
+    "id": 89,
+    "title": "Electronics IoT",
+    "image": "https://via.placeholder.com/150",
+    "department": "Electronics",
+    "description": "Internet of Things"
+  },
+  {
+    "id": 90,
+    "title": "Electronics Sensor",
+    "image": "https://via.placeholder.com/150",
+    "department": "Electronics",
+    "description": "Sensors & actuators"
+  },
+  {
+    "id": 91,
+    "title": "RAC Inverter AC",
+    "image": "https://via.placeholder.com/150",
+    "department": "RAC",
+    "description": "Inverter technology"
+  },
+  {
+    "id": 92,
+    "title": "Computer TypeScript",
+    "image": "https://via.placeholder.com/150",
+    "department": "Computer",
+    "description": "TypeScript basics"
+  },
+  {
+    "id": 93,
+    "title": "Civil BIM",
+    "image": "https://via.placeholder.com/150",
+    "department": "Civil",
+    "description": "Building Information Modeling"
+  },
+  {
+    "id": 94,
+    "title": "Electrical Smart Grid",
+    "image": "https://via.placeholder.com/150",
+    "department": "Electrical",
+    "description": "Smart grid technology"
+  },
+  {
+    "id": 95,
+    "title": "Electronics FPGA",
+    "image": "https://via.placeholder.com/150",
+    "department": "Electronics",
+    "description": "FPGA basics"
+  },
+  {
+    "id": 96,
+    "title": "RAC VRF Systems",
+    "image": "https://via.placeholder.com/150",
+    "department": "RAC",
+    "description": "Variable Refrigerant Flow"
+  },
+  {
+    "id": 97,
+    "title": "Computer GraphQL",
+    "image": "https://via.placeholder.com/150",
+    "department": "Computer",
+    "description": "GraphQL API"
+  },
+  {
+    "id": 98,
+    "title": "Civil Retaining Wall",
+    "image": "https://via.placeholder.com/150",
+    "department": "Civil",
+    "description": "Retaining wall design"
+  },
+  {
+    "id": 99,
+    "title": "Electrical Battery Tech",
+    "image": "https://via.placeholder.com/150",
+    "department": "Electrical",
+    "description": "Battery technology"
+  },
+  {
+    "id": 100,
+    "title": "Electronics Wearables",
+    "image": "https://via.placeholder.com/150",
+    "department": "Electronics",
+    "description": "Wearable devices"
+  },
+  {
+    "id": 101,
+    "title": "Bangla Sahitto Parichoy",
+    "image": "https://via.placeholder.com/150",
+    "department": "Others",
+    "description": "বাংলা সাহিত্যের প্রাথমিক ধারণা"
+  },
+  {
+    "id": 102,
+    "title": "Bangla Grammar",
+    "image": "https://via.placeholder.com/150",
+    "department": "Others",
+    "description": "বাংলা ব্যাকরণ বেসিক"
+  },
+  {
+    "id": 103,
+    "title": "Bangla Kobita Sangraho",
+    "image": "https://via.placeholder.com/150",
+    "department": "Others",
+    "description": "নির্বাচিত কবিতা সংকলন"
+  },
+  {
+    "id": 104,
+    "title": "Bangla Rochona",
+    "image": "https://via.placeholder.com/150",
+    "department": "Others",
+    "description": "বাংলা রচনা লেখার কৌশল"
+  },
+  {
+    "id": 105,
+    "title": "Bangla Natok",
+    "image": "https://via.placeholder.com/150",
+    "department": "Others",
+    "description": "বাংলা নাটক পরিচিতি"
+  },
+  {
+    "id": 106,
+    "title": "English Grammar Basics",
+    "image": "https://via.placeholder.com/150",
+    "department": "Others",
+    "description": "English grammar fundamentals"
+  },
+  {
+    "id": 107,
+    "title": "English Vocabulary",
+    "image": "https://via.placeholder.com/150",
+    "department": "Others",
+    "description": "Vocabulary building techniques"
+  },
+  {
+    "id": 108,
+    "title": "English Composition",
+    "image": "https://via.placeholder.com/150",
+    "department": "Others",
+    "description": "Paragraph & essay writing"
+  },
+  {
+    "id": 109,
+    "title": "Spoken English",
+    "image": "https://via.placeholder.com/150",
+    "department": "Others",
+    "description": "Daily spoken English practice"
+  },
+  {
+    "id": 110,
+    "title": "English Literature",
+    "image": "https://via.placeholder.com/150",
+    "department": "Others",
+    "description": "Basic English literature"
+  },
+  {
+    "id": 111,
+    "title": "Math Arithmetic",
+    "image": "https://via.placeholder.com/150",
+    "department": "Others",
+    "description": "Basic arithmetic operations"
+  },
+  {
+    "id": 112,
+    "title": "Math Algebra",
+    "image": "https://via.placeholder.com/150",
+    "department": "Others",
+    "description": "Algebra fundamentals"
+  },
+  {
+    "id": 113,
+    "title": "Math Geometry",
+    "image": "https://via.placeholder.com/150",
+    "department": "Others",
+    "description": "Geometry basics"
+  },
+  {
+    "id": 114,
+    "title": "Math Trigonometry",
+    "image": "https://via.placeholder.com/150",
+    "department": "Others",
+    "description": "Trigonometric concepts"
+  },
+  {
+    "id": 115,
+    "title": "Math Statistics",
+    "image": "https://via.placeholder.com/150",
+    "department": "Others",
+    "description": "Statistics introduction"
+  },
+  {
+    "id": 116,
+    "title": "Bangla Short Stories",
+    "image": "https://via.placeholder.com/150",
+    "department": "Others",
+    "description": "বাংলা ছোট গল্প সংকলন"
+  },
+  {
+    "id": 117,
+    "title": "English Reading Skills",
+    "image": "https://via.placeholder.com/150",
+    "department": "Others",
+    "description": "Reading comprehension skills"
+  },
+  {
+    "id": 118,
+    "title": "Math Calculus",
+    "image": "https://via.placeholder.com/150",
+    "department": "Others",
+    "description": "Introduction to calculus"
+  },
+  {
+    "id": 119,
+    "title": "Bangla Creative Writing",
+    "image": "https://via.placeholder.com/150",
+    "department": "Others",
+    "description": "সৃজনশীল লেখা চর্চা"
+  },
+  {
+    "id": 120,
+    "title": "English Communication Skills",
+    "image": "https://via.placeholder.com/150",
+    "department": "Others",
+    "description": "Professional communication skills"
+  }
+]
+
+
