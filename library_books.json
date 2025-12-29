@@ -352,490 +352,490 @@
   {
     "id": 51,
     "title": "Electronics Basics",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/812192555X.01.LZZZZZZZ.jpg",
     "department": "Electronics",
     "description": "Electronics intro"
   },
   {
     "id": 52,
     "title": "Analog Electronics",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://media.springernature.com/full/springer-static/cover-hires/book/978-3-030-65129-9",
     "department": "Electronics",
     "description": "Analog circuits"
   },
   {
     "id": 53,
     "title": "Digital Electronics",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://www.schandpublishing.com/Handler/ImageHandler.ashx?width=314&height=404&imgpath=~/Upload/BookImage/9788121923781.jpg",
     "department": "Electronics",
     "description": "Logic gates"
   },
   {
     "id": 54,
     "title": "Electronic Devices",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-27196-0",
     "department": "Electronics",
     "description": "Diode & transistor"
   },
   {
     "id": 55,
     "title": "Microcontroller",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ93KrvwCu91fYtQhnmc29LI3w8WI1R4mIgGw&s",
     "department": "Electronics",
     "description": "Microcontroller basics"
   },
   {
     "id": 56,
     "title": "Microprocessor",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://media.wiley.com/product_data/coverImage300/97/13942452/1394245297.jpg",
     "department": "Electronics",
     "description": "Microprocessor intro"
   },
   {
     "id": 57,
     "title": "Embedded Systems",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ8ivGh0oSPm5vOzfcyaBxViFiCb_he7XVlw&s",
     "department": "Electronics",
     "description": "Embedded systems"
   },
   {
     "id": 58,
     "title": "PCB Design",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://img.perlego.com/book-covers/1883941/9780080514833_300_450.webp",
     "department": "Electronics",
     "description": "PCB basics"
   },
   {
     "id": 59,
     "title": "Communication Systems",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://media.wiley.com/product_data/coverImage300/98/04709862/0470986298.jpg",
     "department": "Electronics",
     "description": "Signal communication"
   },
   {
     "id": 60,
     "title": "Robotics",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://miro.medium.com/1*-n8hi31wOXej3Lc70KwuYQ.jpeg",
     "department": "Electronics",
     "description": "Robotics intro"
   },
   {
     "id": 61,
     "title": "RAC Fundamentals",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://haquepublications.com/wp-content/uploads/2024/09/27211.jpg",
     "department": "RAC",
     "description": "RAC basics"
   },
   {
     "id": 62,
     "title": "Refrigeration System",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT93bTdhcSdySXwgT18MvA9fhjMDugg_YgWNQ&s",
     "department": "RAC",
     "description": "Refrigeration cycle"
   },
   {
     "id": 63,
     "title": "Air Conditioning",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqOZJdXw_m0S-bydU1RwBQXB4swffJcbFe6A&s",
     "department": "RAC",
     "description": "AC system"
   },
   {
     "id": 64,
     "title": "HVAC",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://www.tacca.org/resource/dynamic/store/product/20240219_120624_12907.jpg",
     "department": "RAC",
     "description": "HVAC intro"
   },
   {
     "id": 65,
     "title": "AC Installation",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://img.freepik.com/premium-vector/ac-installation-repair-services-print-flyer-poster-template_612040-2381.jpg?w=360",
     "department": "RAC",
     "description": "AC installation"
   },
   {
     "id": 66,
     "title": "AC Maintenance",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArygo8znudIWHBchzlFYoGu58QcI1rfp4kA&s",
     "department": "RAC",
     "description": "AC maintenance"
   },
   {
     "id": 67,
     "title": "Refrigerator Service",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9-nOgWrR0a75SK3YtoD-0bDKyprOPSBEFcA&s",
     "department": "RAC",
     "description": "Fridge servicing"
   },
   {
     "id": 68,
     "title": "Cooling Load Calculation",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://m.media-amazon.com/images/I/91+YocgzDLL._AC_UF894,1000_QL80_.jpg",
     "department": "RAC",
     "description": "Cooling load"
   },
   {
     "id": 69,
     "title": "Compressor",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://m.media-amazon.com/images/I/51dTagOFHjL._AC_UF1000,1000_QL80_.jpg",
     "department": "RAC",
     "description": "Compressor types"
   },
   {
     "id": 70,
     "title": "RAC Safety",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXOJDyPFg699vAySztsNHJnuN4VzCgFA9DNg&s",
     "department": "RAC",
     "description": "Safety rules"
   },
   {
     "id": 71,
     "title": "RAC Refrigerant",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://m.media-amazon.com/images/I/A1GjzNi0InL._AC_UF1000,1000_QL80_.jpg",
     "department": "RAC",
     "description": "Refrigerant types"
   },
   {
     "id": 72,
     "title": "RAC Piping",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://img.perlego.com/book-covers/4467455/9780128220481_300_450.webp",
     "department": "RAC",
     "description": "Piping systems"
   },
   {
     "id": 73,
     "title": "RAC Thermodynamics",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8vGXG5pfUeNWh0K5Zqh50uAjKoo6b0pYykQ&s",
     "department": "RAC",
     "description": "Thermodynamic principles"
   },
   {
     "id": 74,
     "title": "RAC Heat Transfer",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://titles.cognella.com/pub/media/catalog/product/cache/e2583c2d75317d10cbdb11b428527546/c/o/cover-61124042380546-1B-URT.jpg",
     "department": "RAC",
     "description": "Heat transfer basics"
   },
   {
     "id": 75,
     "title": "RAC Electrical Control",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://img.perlego.com/book-covers/2032576/9781305176034.jpg",
     "department": "RAC",
     "description": "Electrical control in RAC"
   },
   {
     "id": 76,
     "title": "RAC Troubleshooting",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2TODETzZZDVObqITfZiLNljJwfzQzbScMjQ&s",
     "department": "RAC",
     "description": "Troubleshooting AC"
   },
   {
     "id": 77,
     "title": "RAC Maintenance Tools",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2qDGVt2mN7qKy03EMImEwMDnmvtB6I7cvg&s",
     "department": "RAC",
     "description": "Tools & equipment"
   },
   {
     "id": 78,
     "title": "RAC Energy Efficiency",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJMOi7LlhoXCQLDcxjDCx-boKBTG5qaGFkTQ&s",
     "department": "RAC",
     "description": "Energy saving"
   },
   {
     "id": 79,
     "title": "RAC Indoor Units",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://m.media-amazon.com/images/I/61J1w9h-RNL._AC_UF894,1000_QL80_.jpg",
     "department": "RAC",
     "description": "Indoor unit types"
   },
   {
     "id": 80,
     "title": "RAC Outdoor Units",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGbXr84ShMbKtzZjQtVDPDH0HTz2KMmC4cRw&s",
     "department": "RAC",
     "description": "Outdoor unit types"
   },
   {
     "id": 81,
     "title": "Computer Advanced JS",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://www.interviewbit.com/blog/wp-content/uploads/2022/01/Smarter-Way-to-Learn-Javascript.jpg",
     "department": "Computer",
     "description": "Advanced JavaScript"
   },
   {
     "id": 82,
     "title": "Computer Node.js",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpDbg4Dr1Okle_aq19i7Lh9UAtaqY0N3xGTw&s",
     "department": "Computer",
     "description": "Node.js server"
   },
   {
     "id": 83,
     "title": "Computer Express.js",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn24w7kQnKzWai34LfBuKhnNo1KExh1QtIbg&s",
     "department": "Computer",
     "description": "Express.js basics"
   },
   {
     "id": 84,
     "title": "Computer MongoDB",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4842-0647-8",
     "department": "Computer",
     "description": "MongoDB database"
   },
   {
     "id": 85,
     "title": "Computer REST API",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://media.springernature.com/full/springer-static/cover-hires/book/979-8-8688-0309-3",
     "department": "Computer",
     "description": "REST API development"
   },
   {
     "id": 86,
     "title": "Civil Advanced CAD",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://m.media-amazon.com/images/I/51eDBZOecIL._SL500_.jpg",
     "department": "Civil",
     "description": "Advanced AutoCAD"
   },
   {
     "id": 87,
     "title": "Civil Quantity Surveying",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/8121903327.01.LZZZZZZZ.jpg",
     "department": "Civil",
     "description": "Material quantity estimation"
   },
   {
     "id": 88,
     "title": "Electrical PLC",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://m.media-amazon.com/images/I/81C-vfjJecL._UF1000,1000_QL80_.jpg",
     "department": "Electrical",
     "description": "Programmable Logic Controller"
   },
   {
     "id": 89,
     "title": "Electronics IoT",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJZ24n3S-zYK614pD3Env-xI1-7ciEs0iGCg&s",
     "department": "Electronics",
     "description": "Internet of Things"
   },
   {
     "id": 90,
     "title": "Electronics Sensor",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://img.perlego.com/book-covers/1831875/9780081020562_300_450.webp",
     "department": "Electronics",
     "description": "Sensors & actuators"
   },
   {
     "id": 91,
     "title": "RAC Inverter AC",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://rokbucket.rokomari.io/ProductNew20190903/260X372/A_Textbook_of_Refrigeration_and_Air_Cond-JK_Gupta-52238-92909.jpg",
     "department": "RAC",
     "description": "Inverter technology"
   },
   {
     "id": 92,
     "title": "Computer TypeScript",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO170Z7Nsd1BUZVj2S1-xZMmKp6zjAoSSqCw&s",
     "department": "Computer",
     "description": "TypeScript basics"
   },
   {
     "id": 93,
     "title": "Civil BIM",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://media.springernature.com/full/springer-static/cover-hires/book/978-3-319-92862-3",
     "department": "Civil",
     "description": "Building Information Modeling"
   },
   {
     "id": 94,
     "title": "Electrical Smart Grid",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJsYyc7Tw6NBzZjW_s5_H-umqfeqbGrPbVpw&s",
     "department": "Electrical",
     "description": "Smart grid technology"
   },
   {
     "id": 95,
     "title": "Electronics FPGA",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://www.robotshop.com/cdn/shop/files/a0a49601_fpga-cover-book-1.webp?v=1720479967&width=1024",
     "department": "Electronics",
     "description": "FPGA basics"
   },
   {
     "id": 96,
     "title": "RAC VRF Systems",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://m.media-amazon.com/images/I/71722bVuFqL._UF1000,1000_QL80_.jpg",
     "department": "RAC",
     "description": "Variable Refrigerant Flow"
   },
   {
     "id": 97,
     "title": "Computer GraphQL",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJFjTwkUFsg1JzrmwE_2zIGvQqOLbcDhiaOQ&s",
     "department": "Computer",
     "description": "GraphQL API"
   },
   {
     "id": 98,
     "title": "Civil Retaining Wall",
-    "image": "https://via.placeholder.com/150",
+    "image": "hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR7QnY7XRPg7yPcuHkIrTSEguMK_kIv5K4vw&s",
     "department": "Civil",
     "description": "Retaining wall design"
   },
   {
     "id": 99,
     "title": "Electrical Battery Tech",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQb8aze93o4IWUeqK5dKiAcUzfYMbiXUZ1dQ&s",
     "department": "Electrical",
     "description": "Battery technology"
   },
   {
     "id": 100,
     "title": "Electronics Wearables",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxHg7BD1cx9IQikhzrrhcaFFOMzCnF1Dlegg&s",
     "department": "Electronics",
     "description": "Wearable devices"
   },
   {
     "id": 101,
     "title": "Bangla Sahitto Parichoy",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5FyFi94KFgNGmI677fYBMnMB4T2cp6swFcA&s",
     "department": "Others",
     "description": "বাংলা সাহিত্যের প্রাথমিক ধারণা"
   },
   {
     "id": 102,
     "title": "Bangla Grammar",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWa_QU9CpKyj1PPCZwFSe4b1bGugbgycbOPA&s",
     "department": "Others",
     "description": "বাংলা ব্যাকরণ বেসিক"
   },
   {
     "id": 103,
     "title": "Bangla Kobita Sangraho",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://baatighar.com/web/image/product.product/63450/image_1024",
     "department": "Others",
     "description": "নির্বাচিত কবিতা সংকলন"
   },
   {
     "id": 104,
     "title": "Bangla Rochona",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEzeSLEGRKTi2LRvSjJSDc5sYy2Wci11RmoA&s",
     "department": "Others",
     "description": "বাংলা রচনা লেখার কৌশল"
   },
   {
     "id": 105,
     "title": "Bangla Natok",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAWL0-UvSW2BdRjNkR4ZPXhgnvQ7LBZo5HMg&s",
     "department": "Others",
     "description": "বাংলা নাটক পরিচিতি"
   },
   {
     "id": 106,
     "title": "English Grammar Basics",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1347682827i/7285453.jpg",
     "department": "Others",
     "description": "English grammar fundamentals"
   },
   {
     "id": 107,
     "title": "English Vocabulary",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://bd-live-21.slatic.net/kf/S6d065520a74645f9b01d21787296c3c4X.jpg",
     "department": "Others",
     "description": "Vocabulary building techniques"
   },
   {
     "id": 108,
     "title": "English Composition",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://cdn.othoba.com/images/thumbs/0939003_wren-martin-high-school-english-grammar-and-composition-book-white-print.jpeg",
     "department": "Others",
     "description": "Paragraph & essay writing"
   },
   {
     "id": 109,
     "title": "Spoken English",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://rokbucket.rokomari.io/ProductNew20190903/260X372/Complete_Course_of_Spoken_English-Dr_Nazmul_Islam_Noman-aaeda-265761.jpg",
     "department": "Others",
     "description": "Daily spoken English practice"
   },
   {
     "id": 110,
     "title": "English Literature",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://rokbucket.rokomari.io/ProductNew20190903/260X372/English_Literature_For_BCS_Preliminary_a-Md_Layek_Ali-42e0a-264749.jpg",
     "department": "Others",
     "description": "Basic English literature"
   },
   {
     "id": 111,
     "title": "Math Arithmetic",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://m.media-amazon.com/images/I/91Ldhh7RC1L._AC_UF1000,1000_QL80_.jpg/150",
     "department": "Others",
     "description": "Basic arithmetic operations"
   },
   {
     "id": 112,
     "title": "Math Algebra",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://arihantbooks.com/cdn/shop/files/B011-F_dbb02f91-33c8-4593-ad68-48d67cd12fd8.jpg?v=1736314289",
     "department": "Others",
     "description": "Algebra fundamentals"
   },
   {
     "id": 113,
     "title": "Math Geometry",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://m.media-amazon.com/images/I/81n3k8T4NdL._AC_UF894,1000_QL80_.jpg",
     "department": "Others",
     "description": "Geometry basics"
   },
   {
     "id": 114,
     "title": "Math Trigonometry",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRfOgeqqSyI-7Ki-NAb4T9HZDRz-T-LhqU6g&s",
     "department": "Others",
     "description": "Trigonometric concepts"
   },
   {
     "id": 115,
     "title": "Math Statistics",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp7vBlzzl4vkNX0XI1CsFYxW4YY02voPCjqg&s",
     "department": "Others",
     "description": "Statistics introduction"
   },
   {
     "id": 116,
     "title": "Bangla Short Stories",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://www.banglabookshelf.com/Story%20Books/Humayun%20Ahmed/Aj%20Ami%20Kothao%20Jabo%20Na.jpg",
     "department": "Others",
     "description": "বাংলা ছোট গল্প সংকলন"
   },
   {
     "id": 117,
     "title": "English Reading Skills",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE8nZCHS8wmVsAomzsMwQY05m47f_K2cDc8Q&s",
     "department": "Others",
     "description": "Reading comprehension skills"
   },
   {
     "id": 118,
     "title": "Math Calculus",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1KGr1lZwveIsM18gPCxpB2e1HAWusLFKIlQ&s",
     "department": "Others",
     "description": "Introduction to calculus"
   },
   {
     "id": 119,
     "title": "Bangla Creative Writing",
-    "image": "https://via.placeholder.com/150",
+    "image": "Bangla Creative Writing",
     "department": "Others",
     "description": "সৃজনশীল লেখা চর্চা"
   },
   {
     "id": 120,
     "title": "English Communication Skills",
-    "image": "https://via.placeholder.com/150",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6-fqcAGKhNbHvUyYoaZxrfENEd5lI1NbnbQ&s",
     "department": "Others",
     "description": "Professional communication skills"
   }
